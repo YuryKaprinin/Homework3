@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Сергей\source\repos\Массив32\Массив32\Source.c(8,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Массив32.vcxproj -> C:\Users\Сергей\source\repos\Массив32\Debug\Массив32.exe
