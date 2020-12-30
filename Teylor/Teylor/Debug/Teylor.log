@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Сергей\source\repos\Teylor\Teylor\Source.c(69,15): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+  Teylor.vcxproj -> C:\Users\Сергей\source\repos\Teylor\Debug\Teylor.exe
